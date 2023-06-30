@@ -6,6 +6,7 @@ This is a project on frontendmentor.io in order to improve your knowledge about 
 
 Html,
 Css,
+Scss,
 Javascript.
 
 ## Github
